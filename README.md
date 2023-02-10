@@ -6,4 +6,5 @@ A LIKE system has also been created, allowing users to like the posts that they 
 
 
 The website's first page looks like this.
-![Capture](https://user-images.githubusercontent.com/33231250/83400210-1404f780-a420-11ea-94ae-2525698d02bc.PNG)
+
+![Screenshot_8](https://user-images.githubusercontent.com/47181650/218184430-c46ef550-7709-4752-bd8f-258be2987e4e.png)
